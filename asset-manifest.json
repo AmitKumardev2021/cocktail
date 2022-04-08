@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cocktail/static/css/main.29e23a0f.css",
+    "main.js": "/cocktail/static/js/main.5c4ad5b3.js",
+    "static/media/404.png": "/cocktail/static/media/404.c0bc7d0b97fa8387bee7.png",
+    "index.html": "/cocktail/index.html",
+    "main.29e23a0f.css.map": "/cocktail/static/css/main.29e23a0f.css.map",
+    "main.5c4ad5b3.js.map": "/cocktail/static/js/main.5c4ad5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e23a0f.css",
+    "static/js/main.5c4ad5b3.js"
+  ]
+}
